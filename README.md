@@ -1,1 +1,3 @@
-My first directory of git
+# My first directory of git
+## a little update 
+stay tuned
